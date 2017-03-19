@@ -18,3 +18,15 @@ $ ionic start myApp
 ```
 
 More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/docs/v2/getting-started/) page.
+
+
+
+### DOOL notes:
+
+#### If ionic view does not work:
+
+Try running this command:
+ionic state reset
+
+Then:
+ionic upload
