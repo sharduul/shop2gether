@@ -9,9 +9,9 @@ import { HomePage } from '../pages/home-page/home-page';
 @NgModule({
   declarations: [
     MyApp,
+    HomePage,
     HelloIonicPage,
     ItemDetailsPage,
-      HomePage,
     ListPage
   ],
   imports: [
@@ -20,6 +20,7 @@ import { HomePage } from '../pages/home-page/home-page';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
+    HomePage,
     HelloIonicPage,
     ItemDetailsPage,
     ListPage

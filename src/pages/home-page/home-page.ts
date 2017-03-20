@@ -22,7 +22,7 @@ export class HomePage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad HomePagePage');
 
-      //this.capture();
+    this.capture();
   }
 
 
